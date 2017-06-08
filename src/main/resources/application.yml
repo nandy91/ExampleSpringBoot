@@ -1,0 +1,3 @@
+welcome:
+      msg: "Welcome Message from application.yml"
+      msg2: "Other Message"
